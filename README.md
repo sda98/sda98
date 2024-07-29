@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**Sergey Dadoyan, MSc Candidate - Biochemistry and Molecular Biology**
+
 🔬 Researcher | 🎓 Mentor | 🧬 Bioinformatician
 
 I specialize in leveraging data science and programming to analyze biological data from high-throughput sequencing experiments, including RNA-seq and ChIP-seq. Proficient in R and Bash, I develop workflows that demystify complex biological datasets.
