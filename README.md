@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Sergey Dadoyan, MSc Candidate - Biochemistry and Molecular Biology**
+**Sergey Dadoyan, MSc Candidate - Biochemistry and Molecular Biology (University of Calgary)**
 
 🔬 Researcher | 🎓 Mentor | 🧬 Bioinformatician
 
