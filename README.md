@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Sergey Dadoyan, MSc - Biochemistry and Molecular Biology (University of Calgary)**
+**Sergey Dadoyan, M.Sc. - Biochemistry and Molecular Biology (University of Calgary)**
 
 Data Scientist | Biologist | Bioinformatician | Top-ranked STEM Tutor @ TutorBright & Tutred 
 
