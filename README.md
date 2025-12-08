@@ -1,23 +1,25 @@
-## Hi there 👋
+## Hi, I'm Sergey 👋
 
 **Sergey Dadoyan, M.Sc. - Biochemistry and Molecular Biology (University of Calgary)**
 
-Data Scientist | Biologist | Bioinformatician | Top-ranked STEM Tutor @ TutorBright & Tutred 
+I'm a bioinformatician and data scientist who turns messy biological data into clear, decision-ready insights for biomedical and healthcare teams.
 
-I’m a data scientist and bioinformatician who turns messy data into clear, decision-ready insights for biomedical and healthcare teams.
-Recently, I completed my M.Sc. thesis on how the epigenetic reader ING5, together with oxidative stress, shapes transcription in mouse embryonic cells. I led an end-to-end analysis of a 2 TB RNA-seq dataset in R/Linux, which spanned quality control, genomic alignment, differential expression, GO &amp; pathway analyses, RT-qPCR validation, and integration of ChIP-seq and TCGA data. Currently, I’m co-authoring a review on ING4/ING5 complexes. 
+Recently, I completed my MSc in Biochemistry & Molecular Biology at the University of Calgary, where I worked on how the epigenetic reader ING5 and oxidative stress shape transcription in mouse embryonic cells. Practically, that meant leading an end-to-end analysis of a ~2 TB RNA-seq dataset in R/Linux: QC, alignment, differential expression (DESeq2), GO/pathway analysis, RT-qPCR validation, and integration with ChIP-seq and TCGA data.
 
-What I bring:
+### What I work with
 
-• Bioinformatics (3+ years experience): Developing RNA-seq &amp; ChIP-seq workflows, and biological data interpretation (DESeq2, Gene Ontology/Pathway analyses, GSEA, IPA, CIIIDER, TCGA, Galaxy). 
+- **Bioinformatics (3+ years):** RNA-seq & ChIP-seq pipelines in R/Linux (QC → alignment → counts → DE → enrichment). Tools: DESeq2, GO/Pathway analysis, GSEA, IPA, CIIIDER, TCGA, Galaxy.
+- **Statistics & data analysis (9+ years):** Classical tests (t-tests, ANOVA, chi-square, Fisher), PCA, correlation/survival analysis, data visualization in R.
+- **Communication & teaching:** 9+ years tutoring 500+ students in math, biology, chemistry, physics, and statistics; top-ranked tutor with TutorBright and Tutred; comfortable explaining complex analyses to non-experts.
 
-• Statistics &amp; data analysis (9+ years experience): Classical tests (t-tests, ANOVA, chi-square, Fisher, and others), PCA, and correlation analysis. 
+### What I'm looking for
 
-• Communication: 9+ years tutoring over 500 students in math, biology, chemistry, physics, and statistics; top-ranked TutorBright and Tutred tutor in Canada; skilled at translating complex concepts for non-experts.
+I hold an open work permit and am eligible to work full-time anywhere in Canada. I'm especially interested in roles where I can:
 
-I have an open work permit and am eligible to work full-time anywhere in Canada. I’m also fluent in English, Russian, and actively learning French (currently A2 CEFR level). If you need someone to develop and interpret complex biological/healthcare datasets, apply statistics, and clearly communicate the story, let’s connect.
+- Build and maintain NGS / omics analysis pipelines
+- Apply statistics to real biomedical or healthcare datasets
+- Collaborate with wet-lab teams, clinicians, and data scientists
 
-📬 Connect with me!
+If you’re working on bioinformatics, healthcare data, or related tools and want to collaborate, feel free to reach out or open an issue on one of my repos.
 🔗 [LinkedIn](https://www.linkedin.com/in/sergey-dadoyan-msc/)
 ✉️ serg.dado98@gmail.com
-
