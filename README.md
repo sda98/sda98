@@ -9,8 +9,8 @@ Recently, I completed my MSc in Biochemistry & Molecular Biology at the Universi
 ### What I work with
 
 - **Bioinformatics (3+ years):** RNA-seq & ChIP-seq pipelines in R/Linux (QC → alignment → counts → DE → enrichment). Tools: DESeq2, GO/Pathway analysis, GSEA, IPA, CIIIDER, TCGA, Galaxy.
-- **Statistics & data analysis (9+ years):** Classical tests (t-tests, ANOVA, chi-square, Fisher), PCA, correlation/survival analysis, data visualization in R.
-- **Communication & teaching:** 9+ years tutoring 500+ students in math, biology, chemistry, physics, and statistics; top-ranked tutor with TutorBright and Tutred; comfortable explaining complex analyses to non-experts.
+- **Statistics & data analysis (3+ years):** Classical tests (t-tests, ANOVA, chi-square, Fisher), PCA, correlation/survival analysis, data visualization in R.
+- **Communication & teaching (9+ years):** Tutoring over 500 students in math, biology, chemistry, physics, and statistics; top-ranked tutor with TutorBright and Tutred; comfortable explaining complex analyses to non-experts.
 
 ### What I'm looking for
 
