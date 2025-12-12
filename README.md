@@ -4,9 +4,9 @@
 
 I'm a bioinformatician and data scientist who turns messy biological data into clear, decision-ready insights for biomedical and healthcare teams.
 
-Recently, I completed my M.Sc. in Biochemistry & Molecular Biology at the University of Calgary, where I worked on how the epigenetic reader ING5 and oxidative stress shape transcription in mouse embryonic cells. Practically, that meant leading an end-to-end analysis of 50+ NGS/multi-omics samples in R and Linux.
+Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and oxidative stress shape transcription in mouse embryonic cells. Practically, that meant leading an end-to-end analysis of 50+ NGS/multi-omics samples in R and Linux.
 
-### What I work with
+### What I work with now
 
 - **Bioinformatics (3+ years):** NGS pipelines pipelines in R/Linux (QC → alignment → counts → DE → enrichment); GO/Pathway analysis, GSEA, IPA, TCGA.
 - **Statistics & data analysis (3+ years):** Classcical tests (t-tests, ANOVA, chi-square, Fisher), cluster, correlation, and survival analysis, data visualization in R and Python.
