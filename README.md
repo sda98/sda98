@@ -15,3 +15,4 @@ Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and 
 If you’re working on bioinformatics, healthcare data, or related projects and would like to collaborate, feel free to reach out or open an issue on one of my repos.
 🔗 [LinkedIn](https://www.linkedin.com/in/sergey-dadoyan-msc/)
 ✉️ serg.dado98@gmail.com
+🎓 Book a tutoring session with me https://www.tutred.com/tutors/651884
