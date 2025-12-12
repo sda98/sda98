@@ -9,7 +9,7 @@ Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and 
 ### What I work with now
 
 - **Bioinformatics (3+ years):** NGS pipelines pipelines in R/Linux (QC → alignment → counts → DE → enrichment); GO/Pathway analysis, GSEA, IPA, TCGA.
-- **Statistics & data analysis (3+ years):** Classcical tests (t-tests, ANOVA, chi-square, Fisher), cluster, correlation, and survival analysis, data visualization in R and Python.
+- **Statistics & data analysis (3+ years):** Classcical tests (t-tests, ANOVA, chi-square, Fisher), PCA, cluster, correlation, and survival analysis, data visualization in R and Python.
 - **Communication & teaching (9+ years):** Tutoring over 600 students in statistics, biology, and other STEM subjects; top-ranked tutor with TutorBright; passionate about explaining complex analyses to non-experts.
 
 If you’re working on bioinformatics, healthcare data, or related tools and want to collaborate, feel free to reach out or open an issue on one of my repos.
