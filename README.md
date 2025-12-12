@@ -12,6 +12,6 @@ Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and 
 - **Statistics & data analysis (3+ years):** Classcical tests (t-tests, ANOVA, chi-square, Fisher), PCA, cluster, correlation, and survival analyses, data visualization in R and Python.
 - **Communication & teaching (9+ years):** Tutoring over 600 students in statistics, biology, and other STEM subjects; top-ranked tutor with TutorBright; passionate about explaining complex analyses to non-experts.
 
-If you’re working on bioinformatics, healthcare data, or related projects and want to collaborate, feel free to reach out or open an issue on one of my repos.
+If you’re working on bioinformatics, healthcare data, or related projects and would like to collaborate, feel free to reach out or open an issue on one of my repos.
 🔗 [LinkedIn](https://www.linkedin.com/in/sergey-dadoyan-msc/)
 ✉️ serg.dado98@gmail.com
