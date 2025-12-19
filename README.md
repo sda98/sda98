@@ -4,7 +4,7 @@
 
 I'm a bioinformatician and data scientist who turns messy biological data into clear, decision-ready insights for biomedical and healthcare teams.
 
-Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and oxidative stress shape transcription in mouse embryonic cells. Practically, that meant leading an end-to-end analysis of 50+ NGS/multi-omics samples in R and Linux.
+Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and oxidative stress shape transcription in mouse embryonic cells. Practically, that meant leading an end-to-end analysis of 50+ NGS/multi-omics samples in R and Linux. Currently, I am working on organizing the pipelines I developed for my thesis into GitHub repositories. 
 
 ### What I work with now
 
