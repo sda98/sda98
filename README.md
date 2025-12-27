@@ -8,11 +8,10 @@ Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and 
 
 ### What I work with now
 
-- **Bioinformatics (3+ years):** NGS data analysis pipelines pipelines in R/Linux; GO/Pathway analysis, GSEA, IPA, TCGA.
-- **Statistics & data analysis (3+ years):** Classcical tests (t-tests, ANOVA, chi-square, Fisher), PCA, cluster, correlation, and survival analyses, data visualization in R and Python.
-- **Communication & teaching (9+ years):** Tutoring over 600 students in statistics, biology, and other STEM subjects; top-ranked tutor with TutorBright.
+- **Bioinformatics (3+ years):** NGS data analysis pipelines pipelines in R/Linux; GO/Pathway analyses, GSEA, IPA, TCGA.
+- **Statistics & data analysis (3+ years):**  Hypothesis testing (T-tests, ANOVA, chi-square, Fisher), PCA, cluster, correlation, and survival analyses, data visualization in R and Python.
 
-If you’re working on bioinformatics, healthcare data, or related projects and would like to collaborate, feel free to reach out or open an issue on one of my repos.
+If you’re working on bioinformatics, healthcare data, or related projects and would like to collaborate, feel free to reach out.
 🔗 [LinkedIn](https://www.linkedin.com/in/sergey-dadoyan-msc/)
 ✉️ serg.dado98@gmail.com
 🎓 M.Sc. thesis: https://ucalgary.scholaris.ca/items/b1225e4e-d545-4802-a64e-02f2d6d598c6
