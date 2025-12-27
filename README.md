@@ -4,7 +4,7 @@
 
 I'm a bioinformatician and data scientist who turns messy biological data into clear, decision-ready insights for biomedical and healthcare teams.
 
-Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and oxidative stress shape transcription in mouse embryonic cells. Practically, that meant leading an end-to-end analysis of 50+ NGS/multi-omics samples in R and Linux. Currently, I am working on organizing the pipelines I developed for my thesis into GitHub repositories. 
+Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and oxidative stress shape transcription in mouse embryonic cells. Practically, that meant leading an end-to-end analysis of 50+ NGS/multi-omics samples in R and Linux. 
 
 ### What I work with now
 
@@ -15,3 +15,4 @@ Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and 
 If you’re working on bioinformatics, healthcare data, or related projects and would like to collaborate, feel free to reach out or open an issue on one of my repos.
 🔗 [LinkedIn](https://www.linkedin.com/in/sergey-dadoyan-msc/)
 ✉️ serg.dado98@gmail.com
+🎓 M.Sc. thesis: https://ucalgary.scholaris.ca/items/b1225e4e-d545-4802-a64e-02f2d6d598c6
