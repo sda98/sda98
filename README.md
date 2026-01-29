@@ -1,6 +1,6 @@
 ## Hi, I'm Sergey 👋
 
-**Sergey Dadoyan, M.Sc. - Biochemistry and Molecular Biology (University of Calgary)**
+**Sergey Dadoyan, M.Sc. - Biochemistry and Molecular Biology (University of Calgary) (2025)**
 
 I'm a bioinformatician and data scientist who turns messy biological data into clear, decision-ready insights for biomedical and healthcare teams.
 
