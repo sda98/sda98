@@ -11,7 +11,7 @@ Recently, I completed my M.Sc. project about how the epigenetic reader ING5 and 
 - **Bioinformatics (3+ years):** NGS data analysis pipelines in R/Linux; GO/Pathway analyses, GSEA, IPA, TCGA.
 - **Statistics & data analysis (3+ years):**  Hypothesis testing (T-tests, ANOVA, chi-square, Fisher), PCA, UMAP, cluster, correlation, and survival analyses, data visualization in R and Python.
 
-If you’re working on bioinformatics, healthcare data, or related projects and would like to collaborate, feel free to reach out. I am always happy to discuss how I could contribute to your work. 
+If you’re working on bioinformatics, healthcare data, or related projects and would like to collaborate, please reach out to me over LinkedIn or by email. I am always happy to discuss how I could contribute to your work. 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sergey-dadoyan-msc/)
 ✉️ serg.dado98@gmail.com
