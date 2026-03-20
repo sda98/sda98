@@ -9,7 +9,7 @@ Recently, I completed my M.Sc. at the University of Calgary, where I led the end
 - **Data Analysis & Bioinformatics (4+ years):** Reproducible analysis pipelines in R, Python, and Linux/Unix; multi-omic data integration; workflow automation (Snakemake, Nextflow).
 - **Statistics (4+ years):** Hypothesis testing, PCA, clustering, correlation, survival analysis, data visualization (ggplot2, seaborn, matplotlib).
 
-If you're working on bioinformatics- or data science-related projects and would like to collaborate, do not hesitate to connect with me through LinkedIn or email. 
+If you're working on bioinformatics- or data science-related projects and would like to collaborate, please do not hesitate to connect with me through LinkedIn or email. 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sergey-dadoyan-msc/)
 ✉️ serg.dado98@gmail.com
